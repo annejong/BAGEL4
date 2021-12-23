@@ -1,0 +1,16 @@
+Lanthipeptide_class_II 	PF05147	PF13575	
+Lanthipeptide_class_IV 	PF05147	lanl	
+Lanthipeptide_class_I	PF05147	PF04738	
+Lanthipeptide_class_I	PF05147	PF14028	
+LAPs	PF00881	PF02624	
+Bottromycin	PF04055	PF02624	
+Sactipeptides	PF04055	Sac_1	
+Glyocin	TIGR04195	PF03412	
+Head_to_tail_cyclized_peptide	PF01944	httB	
+Thiopeptide	PF00881	PF02624	PF14028
+Microcin	PF02794		
+Lasso_peptide	PF13471		
+Lanthipeptide_class_III 	labKC		
+Cyanobactin	CyaG		
+Linaridin	LinL		
+

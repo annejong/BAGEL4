@@ -1,0 +1,35 @@
+name	description
+CyaG	Cyanobactin biosyntesis
+lanl	LanL domain
+LinL	Linaridin biosyntesis
+PF00005	ABC transporter
+PF00069	Protein kinase domain
+PF00072	Response regulator receiver domain
+PF00082	Peptidase_S8
+PF00296	Luciferase-like monooxygenase
+PF00486	Transcriptional regulatory protein, C terminal
+PF00512	His Kinase A (phosphoacceptor) domain
+PF00535	Glycos_transf_2
+PF01320	Pyocin immunity protein
+PF02441	Flavoprotein domain indicator for LanD protein
+PF02518	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+PF03412	C39 Peptidase 
+PF03526	Microcin immunity protein motif
+PF03857	Colicin immunity protein motif
+PF14028	Lantibiotic dehydratase C terminus
+PF04738	Lantibiotic dehydratase N terminus
+PF05147	LANC_like Lanthionine synthetase C-like protein
+PF08951	Enterocin A Immunity
+Sac_1	Sactipeptides biosyntesis
+PF02624	LAP or bottromycin biosynthesis
+PF02794	Microcin biosynthesis
+PF13471	Lasso peptide biosynthesis
+PF12730	ABC transporter
+labKC	LanKC domain
+PF13437	bacterial haemolysin translocator
+PF00881	Nitroreductase
+PF00733	Asn_synthase
+PF01944	DUF95
+httB	AS48B like protein
+PF04055	Radical_SAM
+TIGR04195	S_glycosyl_SunS

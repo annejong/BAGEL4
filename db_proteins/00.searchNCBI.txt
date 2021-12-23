@@ -1,0 +1,2 @@
+(bacteriocin[All Fields] AND lantibiotic[All Fields]) NOT immunity[All Fields] AND ("10"[SLEN] : "100"[SLEN])
+

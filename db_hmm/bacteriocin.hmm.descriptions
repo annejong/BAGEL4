@@ -1,0 +1,60 @@
+ACC	NAME	Description
+PF01024	Colicin	Colicin pore forming domain
+PF00005	ABC_tran	ABC transporter
+PF00069	Pkinase	Protein kinase domain
+PF00072	Response_reg	Response regulator receiver domain
+PF00082	Peptidase_S8	Subtilase family
+PF00296	Bac_luciferase	Luciferase-like monooxygenase
+PF00486	Trans_reg_C	Transcriptional regulatory protein, C terminal
+PF00512	HisKA	His Kinase A (phospho-acceptor) domain
+PF00535	Glycos_transf_2	Glycosyl transferase family 2
+PF00733	Asn_synthase	Asparagine synthase
+PF00881	Nitroreductase	Nitroreductase family
+PF01320	Colicin_Pyocin	Colicin immunity protein / pyocin immunity protein
+PF01721	Bacteriocin_II	Class II bacteriocin
+PF01944	DUF95	Integral membrane protein DUF95
+PF02052	Gallidermin	Gallidermin
+PF02441	Flavoprotein	Flavoprotein
+PF02518	HATPase_c	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+PF02624	YcaO	YcaO-like family
+PF02794	HlyC	RTX toxin acyltransferase family
+PF03412	Peptidase_C39	Peptidase C39 family
+PF03526	Microcin	Colicin E1 (microcin) immunity protein
+PF03857	Colicin_im	Colicin immunity protein
+PF04055	Radical_SAM	Radical SAM superfamily
+PF04369	Lactococcin	Lactococcin-like family
+PF04454	Linocin_M18	Encapsulating protein for peroxidase
+PF04604	L_biotic_typeA	Type-A lantibiotic
+PF04737	Lant_dehyd_N	Lantibiotic dehydratase, N terminus
+PF04738	Lant_dehyd_C	Lantibiotic dehydratase, C terminus
+PF05147	LANC_like	Lanthionine synthetase C-like protein
+PF06580	His_kinase	Histidine kinase
+PF08109	Antimicrobial14	Lactocin 705 family
+PF08129	Antimicrobial17	Alpha/beta enterocin family
+PF08130	Antimicrobial18	Type A lantibiotic family
+PF08951	EntA_Immun	Enterocin A Immunity
+PF09221	Bacteriocin_IId	Bacteriocin class IId cyclical uberolysin-like
+PF09683	Lactococcin_972	Bacteriocin (Lactococcin_972)
+PF10439	Bacteriocin_IIc	Bacteriocin class II with double-glycine leader peptide
+PF12730	ABC2_membrane_4	ABC-2 family transporter protein
+PF13437	HlyD_3	HlyD family secretion protein
+PF13471	Transglut_core3	Transglutaminase-like superfamily
+PF13575	DUF4135	Domain of unknown function (DUF4135)
+PF14028	SpaB_C	SpaB C-terminal domain
+PF14028	TIGR04195	S_glycosyl_SunS: peptide S-glycosyltransferase, SunS family
+LE-DUF	Lacticin	lantibiotic peptide lacticin 481 group (dufour et al)
+LE-LAC481	Lacticin	Lantibiotic leader lacticin 481 group
+LE-LanBC	LanBC	Lantibiotic leader LanBC modified
+LE-MER+2PEP	Mersacidin	Lantibiotic leader mersacidin cinnamycin group
+MA-2PEPA	Lantibiotic peptide two component alpha 	Lantibiotic peptide two component alpha 
+MA-2PEPB	Lantibiotic peptide two component beta	Lantibiotic peptide two component beta
+MA-DUF	Lacticin	lantibiotic leader lacticin 481 group (dufour et al)
+MA-EPI	Epidermin	Lantibiotic peptide epidermin group
+MA-LAC481	Lacticin481	Lantibiotic peptide lacticin 481 group
+MA-NIS	Nisin	Lantibiotic peptide nisin group
+MA-NIS+EPI	Nisin_epidermin	Lantibiotic peptide nisin epidermin group
+ggmotif	GG_motif	ggmotif (Dirix et al.)
+leaderLanBC	leaderLanBC	Leader Processing site 
+leaderLanM	leaderLanM	Leader Processing site 
+lasso	lasso	Lasso
+

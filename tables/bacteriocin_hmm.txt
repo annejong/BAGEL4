@@ -1,0 +1,30 @@
+name	domT	description
+LE-DUF	25	lantibiotic peptide lacticin 481 group (dufour et al)
+LE-LAC481	25	Lantibiotic leader lacticin 481 group
+LE-LanBC	25	Lantibiotic leader LanBC modified
+LE-MER+2PEP	25	Lantibiotic leader mersacidin cinnamycin group
+MA-2PEPA	25	Lantibiotic peptide two component alpha 
+MA-2PEPB	25	Lantibiotic peptide two component beta
+MA-DUF	25	lantibiotic leader lacticin 481 group (dufour et al)
+MA-EPI	25	Lantibiotic peptide epidermin group
+MA-LAC481	25	Lantibiotic peptide lacticin 481 group
+MA-NIS	25	Lantibiotic peptide nisin group
+MA-NIS+EPI	25	Lantibiotic peptide nisin epidermin group
+PF01721	25	Class II bacteriocin
+PF02052	25	Gallidermin
+PF03047	25	ComC family
+PF04369	25	Lactococcin Lactococcin-like family
+PF04454	25	Linocin M18 bacteriocin protein
+PF04604	25	Type-A lantibiotic
+PF08109	25	Lactocin 705 family
+PF08129	25	Alpha/beta enterocin family
+PF08130	25	Antimicrobial18 Type A lantibiotic family
+PF09221	25	Bacterioc_AS-48 Bacteriocin AS-48
+PF09683	25	Lactococcin_972 Bacteriocin (Lactococcin_972)
+PF10439	25	Bacteriocin_IIc Bacteriocin class II with double-glycine leader peptide
+PF11758	25	Aureocin-like type II bacteriocin 
+PF16934	25	Two-component Enterococcus faecalis cytolysin (EFC)
+ggmotif	25	ggmotif (Dirix et al.)
+leaderLanBC	25	Leader Processing site 
+leaderLanM	25	Leader Processing site 
+lasso	25	Lasso

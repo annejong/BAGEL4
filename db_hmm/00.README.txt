@@ -1,0 +1,12 @@
+# moved all hmms into two different folders one for context and one for the bacteriocin itself
+
+# catenate all hmm models to one file
+rm bagel4.hmm
+cat *.hmm > bagel4.hmm
+
+# format the hmm file
+hmmpress bagel4.hmm
+
+
+# parse descriptions
+/usr/bagel4/tools/parse_pfam_descriptions.pl -s /usr/bagel4/hmm_db -db bagel4.hmm

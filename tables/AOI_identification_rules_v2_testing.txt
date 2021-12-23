@@ -1,0 +1,3 @@
+Lanthipeptide_class_IV 	PF05147	lanl		
+
+

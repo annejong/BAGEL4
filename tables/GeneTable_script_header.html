@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script>
+	function toggleTable(my_table_name) {
+		var lTable = document.getElementById(my_table_name);
+		lTable.style.display = (lTable.style.display == "table") ? "none" : "table";
+	}
+
+	//$( window ).on( "load", function() {
+	$( document ).ready(function() {
+		console.log( "window loaded" );
+		$('table').each(function() { $(this).hide(); });
+		$('#SummaryTable').show() ;
+		$('#ResultsTable').show() ;
+		$('.display').hide() ;
+
+	});
+</script>
+

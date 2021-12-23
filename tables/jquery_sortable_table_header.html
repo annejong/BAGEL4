@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script> 
+<script type="text/javascript" src="js/jquery.tablesorter.js"></script> 
+<script>
+$(document).ready(function() 
+    { 
+        $("#myTable").tablesorter(); 
+    } 
+); 
+$(document).ready(function() 
+    { 
+        $("#myTable").tablesorter( {sortList: [[0,0], [1,0]]} ); 
+    } 
+); 
+</script>    
+
+<style>
+{
+  margin: 0 auto;
+  font-size: 1.2em;
+  margin-bottom: 15px;
+}
+
+
+thead {
+  cursor: pointer;
+  color: white;
+  background: #647E7B;
+}
+thead tr th { 
+  font-weight: bold;
+  padding: 12px 30px;
+  padding-left: 42px;
+}
+thead tr th span { 
+  padding-right: 20px;
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+}
+
+thead tr th.headerSortUp, thead tr th.headerSortDown {
+  background: #acc8dd;
+}
+
+thead tr th.headerSortUp span {
+  background-image: url('up-arrow.png');
+}
+thead tr th.headerSortDown span {
+  background-image: url('down-arrow.png');
+}
+tbody tr { 
+  color: #555;
+  background: #FCEFCF;
+}
+tbody tr td {
+  text-align: left;
+  padding: 2px 2px;
+}
+tbody tr td.lalign {
+  text-align: left;
+}
+</style>
+
+</head>

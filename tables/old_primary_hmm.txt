@@ -1,0 +1,12 @@
+name	threshold	description
+PF05147	1.00E-07	LANC_like Lanthionine synthetase C-like protein
+PF04737	1.00E-07	Lantibiotic dehydratase N terminus
+PF04738	1.00E-07	Lantibiotic dehydratase C terminus
+LinL	1.00E-07	Linaridin biosyntesis
+Sac_1	1.00E-07	Sactipeptides biosyntesis
+CyaG	1.00E-07	Cyanobactin biosyntesis
+PF02624	1.00E-07	LAP or bottromycin biosynthesis
+PF02794	1.00E-07	Microcin biosynthesis
+PF13471	1.00E-07	Lasso peptide biosynthesis
+TIGR04195	1.00E-07	S-glycosyltransferase
+

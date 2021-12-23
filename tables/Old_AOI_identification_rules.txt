@@ -1,0 +1,15 @@
+name	rule	threshold	order	regex=(C)	regex=(T|S)	regex=(N)	regex=(D|E)	min_len	max_len	graph_name	proximity
+Lanthipeptide_class_II 	(PF05147) AND (PF13575)	0.0000001	1	yes	yes	no	no	30	100	lanthi	PF05147
+Lanthipeptide_class_IV 	(PF05147) AND (lanl)	0.0000001	2	yes	yes	no	no	30	100	lanthi	PF05147
+Lanthipeptide_class_I	(PF05147) AND (PF04738|PF14028)	0.0000001	3	yes	yes	no	no	30	100	lan_BC	PF05147
+LAPs	(PF02624) AND (PF00881)	0.0000001	8	yes	yes	no	no	30	100	lap	PF02624
+Bottromycin	(PF04055) AND (PF02624)	0.0000001	9	no	no	no	no	30	60	bot	PF04055
+Sactipeptides	(PF04055) AND (Sac_1)	0.0000001	6	yes	no	no	no	30	100	sac	PF04055
+Glyocin	(TIGR04195) AND (PF03412)	0.0000001	12	yes	no	no	no	30	100	gly	TIGR04195
+Head_to_tail_cyclized_peptide	(PF01944) AND (httB)	1E-10	15	no	no	no	no	50	120	htt	PF01944
+Thiopeptide	(PF14028) AND (PF02624) AND (PF00881) AND 	0.0000001	13	yes	yes	no	yes	30	100	thi	PF14028
+Microcin	(PF02794)	0.0000001	10	no	no	yes	no	30	100	mic	PF02794
+Lasso_peptide	(PF13471)	0.0000001	11	no	no	no	yes	30	100	las	PF13471
+Lanthipeptide_class_III 	(labKC)	0.000000001	14	yes	yes	no	no	30	100	lanthi	labKC
+Cyanobactin	(CyaG)	0.0000001	7	yes	yes	no	no	30	100	cya	CyaG
+Linaridin	(LinL)	0.0000001	5	no	yes	no	no	30	100	lin	LinL
