@@ -1,6 +1,8 @@
 # BAGEL4
 BAGEL4 v.1.2  June 2022
 
+To download all dependencies use http://ngs.molgenrug.nl/bagel4/
+
 ---------- SOFTWARE dependencies ---------- 
 
 perl5
