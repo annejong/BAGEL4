@@ -5,11 +5,11 @@ To download all dependencies use http://ngs.molgenrug.nl/bagel4/
 
 ---------- SOFTWARE dependencies ---------- 
 
-perl5
-hmmsearch3
-blastall
-glimmer3
-librsvg2-bin
+perl5, 
+hmmsearch3, 
+blastall, 
+glimmer3, 
+librsvg2-bin, 
 PfamScan     # Download the latest version from  ftp://ftp.sanger.ac.uk/pub/databases/Pfam/Tools/
 
 
